@@ -45,7 +45,8 @@ We want/need to edit and modify dashboards everyday and managing tens and hundre
 
 # Getting started with wizzy
 
-- Install nodejs by downloading it from nodejs.org. (https://nodejs.org/en/download/). After installing nodejs, run following commands:
+- Install nodejs by downloading it from nodejs.org. (https://nodejs.org/en/download/). After installing nodejs, run following commands HI:
+
 ```
 $ node -v
 $ npm -v
